@@ -63,8 +63,8 @@ index.js:48 Uncaught TypeError: Assignment to constant variable.
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-name1 = "john";
-name2 = "John";
+// name1 = "john";
+// name2 = "John";
 
-console.log("name1=name2", name1 === name2);
-console.log("name1lowercase=name2lowercase", name1.toLowerCase() === name2.toLowerCase());
+// console.log("name1=name2", name1 === name2);
+// console.log("name1lowercase=name2lowercase", name1.toLowerCase() === name2.toLowerCase());
